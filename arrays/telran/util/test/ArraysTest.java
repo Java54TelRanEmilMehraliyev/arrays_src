@@ -31,5 +31,13 @@ String[] stringsMin = {"abc", "lmn", "123",  "y"};
 		assertArrayEquals(expected, numbersCopy);
 		
 	}
+	@Test
+	void binarySearchTest() {
+		//TODO
+	}
+	 @Test
+	 void removeIfTest() {
+		 //TODO
+	 }
 
 }
